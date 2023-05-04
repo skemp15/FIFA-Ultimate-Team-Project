@@ -1,0 +1,13 @@
+{
+    "input": {
+        "FUTBIN Page": "40",
+        "Player Name": "Diogo Jota"
+    },
+    "output": {
+        "Player Name":"Diogo Jota",
+        "Predicted Price": "50000",
+        "Marketplace Price": "22500"
+        }
+}
+
+
