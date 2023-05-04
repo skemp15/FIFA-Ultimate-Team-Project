@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is aimed at predicting the marketplace value of FIFA Ultimate Team cards based on the player's attributes. The project includes notebooks that outline the process for each stage of the project, including web scraping, data cleaning, EDA, feature selection, model building and evaluation, model analysis and a conclusion. The project also includes a pipeline for the model building which includes a python function that runs through every step. Additionally, the project includes a Flask app for model deployment, as well as a Dockerfile to containerise the model, so people can send post requests.
+This project is aimed at predicting the marketplace value of FIFA Ultimate Team cards based on the player's attributes. The project includes notebooks that outline the process for each stage of the project, including web scraping, data cleaning, EDA, feature selection, model building and evaluation, model analysis and a conclusion. The project also includes a pipeline for the model building which includes a Python function that runs through every step. Additionally, the project includes a Flask app for model deployment, as well as a Dockerfile to containerise the model, so people can send post requests.
 
 ## Data
 
